@@ -1,4 +1,4 @@
 a weather web app using a RESTful API that fetches real-time weather data and displays it to users. The app's intuitive interface allows users to enter their location and receive accurate weather forecasts, enhancing their day-to-day planning. Check out the GitHub repository for detailed code implementation and contribute to building an indispensable weather tool for everyone.
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"
-img align="left" alt="Coding" width="100">
+<img src="[https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif](https://64.media.tumblr.com/983a614d217b34cdc7514bc13c94cb1e/af6d38bc8d6adb5b-bf/s540x810/8c3f9d9e9b52c96b527e1f51c201337b47e173fd.gifv)https://64.media.tumblr.com/983a614d217b34cdc7514bc13c94cb1e/af6d38bc8d6adb5b-bf/s540x810/8c3f9d9e9b52c96b527e1f51c201337b47e173fd.gifv"
+ alt="Coding" >
 Here is the link : https://shouvikmistry.github.io/Weather_Checker/
